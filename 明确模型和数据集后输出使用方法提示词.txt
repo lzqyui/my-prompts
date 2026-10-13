@@ -1,0 +1,5 @@
+我现在使用https://gitcode.com/gh_mirrors/br/brain-segmentation-pytorch?utm_source=csdn_github_accelerator&isLogin=1这个基本模型，
+检测https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentationz这个地址的数据集
+数据集我已经下载到本地"D:\Google-down\brain-segmentation-pytorch-master\archive.zip"这个位置，
+告诉我该如何使用这个模型训练这个数据集
+

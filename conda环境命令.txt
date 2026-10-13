@@ -1,0 +1,10 @@
+conda env list
+
+同系统复制
+conda create -n notebook_cp --clone notebook # 重点在这
+
+
+跨系统复制
+conda list -n notebook --export > notebook.env # 导出requirement file，--export/-e选项是重点
+
+conda create -n notebook --file notebook.env # 通过--file选项指定要使用的requirement file

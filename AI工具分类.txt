@@ -1,0 +1,7 @@
+GPT / Claude / DeepSeek：模型，是大脑。
+ChatGPT / Claude 网页：聊天产品，是你和大脑说话的界面。
+Claude Code / Cursor / Codex / Cline：代码代理工具，是能把模型能力接到真实项目里的手脚。
+API：通信接口，是工具和模型之间的电话线。
+
+你以后看到这些名字，可以先问自己一句：
+	它是模型？是网页产品？是代码工具？还是 API？
